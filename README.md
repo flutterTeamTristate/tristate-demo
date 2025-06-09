@@ -1,2 +1,4 @@
 # tristate-demo
-This is my First Git Repo.
+This is my first Git Repo.
+<br>
+Author -- Flutter
